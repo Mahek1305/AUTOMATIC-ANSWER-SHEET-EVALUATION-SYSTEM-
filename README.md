@@ -345,24 +345,6 @@ Potential future improvements include:
 
 ---
 
-## 13. Original Project Acknowledgement
-
-Exam AI is a customized and adapted version of the **Parakh** project developed by Team Parakh.
-
-The original project was developed as part of the Summer Internship Program at the **AICTE IDEA Lab**, hosted under **USICT GGSIPU**, under the mentorship of **Dr. Raj Kumar**.
-
-Original contributors:
-
-- **Aaditya Pokhriyal** – Team Leader, AI Services Developer and Backend Developer
-- **Divyanshu Yadav** – AI Services Developer and Data Standardization Lead
-- **Gaurav Verma** – Backend and Integration Developer, Frontend Lead
-- **Anshu Kumar** – Frontend Developer
-- **Jai Singh Rathore** – UI/UX Designer
-- **Raj** – UI/UX Designer
-
-Please refer to the original project's licence and repository for its usage and attribution requirements.
-
----
 
 ## 14. Project Information
 
