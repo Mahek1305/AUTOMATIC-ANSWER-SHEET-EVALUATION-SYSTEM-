@@ -346,7 +346,7 @@ Potential future improvements include:
 ---
 
 
-## 14. Project Information
+## 13. Project Information
 
 **Project Name:** Exam AI
 
